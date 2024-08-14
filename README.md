@@ -7,7 +7,7 @@
   cell segmented by #%%, so you can run specific parts of the 
   project for specific results. 
 
-	--> First two cells must always be run first, as they 
+	--> First two cells must always be ran first as they 
 	    contain essential packages (numpy and matplotlib) 
             and functions that are used throughout the project.
 
